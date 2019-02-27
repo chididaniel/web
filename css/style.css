@@ -1,0 +1,82 @@
+body{
+    margin: 0;
+    font-family: 'Merriweather', serif;
+    background-color: grey;
+}
+h1{
+    margin: 0 auto 0 auto;
+    width:10%;
+    font-family: 'Amita', cursive;
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.top-container{
+    color:white;
+    background-color: black;
+    text-align: center;
+    position: relative;
+    padding-top: 100px;
+}
+
+.middle-container{
+background-color: grey;
+
+}
+
+.bottom-container{
+    background-color: black;
+    color:white;
+    padding: 50px 0 20px;
+
+}
+
+.web{
+    text-decoration: underline;
+}
+
+.ts-1{
+    position: absolute;
+    right: 300px;
+    top: 100px;
+}
+ 
+.ts-2{
+    position: absolute;
+    left: 50px;
+    bottom: 300px;
+}
+.ts-3{
+    position:absolute;
+    top:500px;
+}
+
+.pic{
+    margin-top: 10px;
+    
+}
+
+.drum{
+    border-radius: 500px;
+    width:200px;
+}
+.d-alph{
+    position: absolute;
+    left: 50px;
+    bottom: 600px;
+}
+
+.btn{
+    border: 2px;
+    background-color: black;
+    padding: 15px 15px;
+    color: white;
+    text-decoration: none;
+    margin-bottom: 10px;
+}
+
+.contact-details{
+    background-color: black;
+    color:white;
+}
